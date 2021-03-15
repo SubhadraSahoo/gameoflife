@@ -16,7 +16,7 @@
     <artifactId>gameoflife</artifactId>
     <version>0.0.2</version>
     <packaging>war</packaging>
-    <name>gameoflife</name>
+    <name>gameoflife_Subhadra</name>
     <prerequisites>
         <maven>3.0.0</maven>
     </prerequisites>
